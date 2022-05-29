@@ -1,0 +1,21 @@
+[debug] [2022-05-29T11:42:29.405Z] ----------------------------------------------------------------------
+[debug] [2022-05-29T11:42:29.407Z] Command:       D:\Programlar\Node Js\node.exe D:\Programlar\node_modules\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-05-29T11:42:29.408Z] CLI Version:   11.0.1
+[debug] [2022-05-29T11:42:29.408Z] Platform:      win32
+[debug] [2022-05-29T11:42:29.408Z] Node Version:  v16.14.2
+[debug] [2022-05-29T11:42:29.409Z] Time:          Sun May 29 2022 14:42:29 GMT+0300 (GMT+03:00)
+[debug] [2022-05-29T11:42:29.410Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-05-29T11:42:29.423Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-05-29T11:42:29.423Z] > authorizing via signed-in user (acbutacbut@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Salih\Developement\repos\worldchat
+
